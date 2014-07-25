@@ -7415,7 +7415,7 @@ msgstr ""
 
 #: templates/cart/mini-cart.php:51
 msgid "No products in the cart."
-msgstr ""
+msgstr "购物车为空.1"
 
 #: templates/cart/mini-cart.php:59
 msgid "Subtotal"
