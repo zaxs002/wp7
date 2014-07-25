@@ -10660,7 +10660,7 @@ msgstr ""
 
 #: woocommerce/cart/mini-cart.php:74 woocommerce_2.0.x/cart/mini-cart.php:74
 msgid "Checkout &rarr;"
-msgstr ""
+msgstr "结算 &rarr;"
 
 #: woocommerce/checkout/cart-errors.php:16
 #: woocommerce_2.0.x/checkout/cart-errors.php:13
